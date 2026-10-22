@@ -1,0 +1,16 @@
+{
+		"name": "Deltarune",
+        "img": "/assets/img/gms/deltarune.png",
+        "type": "exclusive",
+		    "url": "/assets/src/deltarune/index.html#deltarune",
+        "categories": ["indie", "rpg", "port"],
+        "source": "local" 
+},
+{
+		"name": "Roblox",
+        "img": "/assets/img/gms/roblox.png",
+        "type": "exclusive",
+		    "func": "sendRequest('https://roblox.com');",
+        "categories": ["multiplayer", "rpg", "port"],
+        "source": "proxied" 
+}
