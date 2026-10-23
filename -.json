@@ -15,7 +15,7 @@
         "name": "Basket Bros",
         "img": "covers/basketbros.png",
         "type": "regular",
-        "func": "goUrl('https://roblox.com');",
+        "func": "goUrl('https://avatarbasketball.com/index.php?game=bbros');",
         "categories": [
             "2player",
             "sports"
@@ -26,7 +26,7 @@
         "name": "Roblox",
         "img": "covers/roblox.png",
         "type": "exclusive",
-        "func": "goUrl('https://roblox.com');",
+        "func": "goUrl('https://nowgg.fun');",
         "categories": [
             "multiplayer",
             "sandbox",
