@@ -1,16 +1,26 @@
-{
-		"name": "Deltarune",
-        "img": "/assets/img/gms/deltarune.png",
+[
+    {
+        "name": "Deltarune",
+        "img": "covers/deltarune.png",
         "type": "exclusive",
-		"url": "deltarune.html",
-        "categories": ["indie", "rpg", "port"],
-        "source": "local" 
-},
-{
-		"name": "Roblox",
-        "img": "/assets/img/gms/roblox.png",
+        "url": "deltarune.html",
+        "categories": [
+            "indie",
+            "rpg",
+            "port"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Roblox",
+        "img": "covers/roblox.png",
         "type": "exclusive",
-		"func": "sendRequest('https://roblox.com');",
-        "categories": ["multiplayer", "rpg", "port"],
-        "source": "proxied" 
-}
+        "func": "sendRequest('https://roblox.com');",
+        "categories": [
+            "multiplayer",
+            "sandbox",
+            "port"
+        ],
+        "source": "proxied"
+    }
+]
