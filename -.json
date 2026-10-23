@@ -2,7 +2,7 @@
 		"name": "Deltarune",
         "img": "/assets/img/gms/deltarune.png",
         "type": "exclusive",
-		"url": "/assets/src/deltarune/index.html#deltarune",
+		"url": "deltarune.html",
         "categories": ["indie", "rpg", "port"],
         "source": "local" 
 },
