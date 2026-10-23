@@ -12,10 +12,21 @@
         "source": "local"
     },
     {
+        "name": "Basket Bros",
+        "img": "covers/basketbros.png",
+        "type": "regular",
+        "func": "goUrl('https://roblox.com');",
+        "categories": [
+            "2player",
+            "sports"
+        ],
+        "source": "local"
+    },
+    {
         "name": "Roblox",
         "img": "covers/roblox.png",
         "type": "exclusive",
-        "func": "sendRequest('https://roblox.com');",
+        "func": "goUrl('https://roblox.com');",
         "categories": [
             "multiplayer",
             "sandbox",
