@@ -26,7 +26,7 @@
         "name": "Soundboard",
         "img": "covers/soundboard.png",
         "type": "regular",
-        "func": "soundboard.html",
+        "url": "soundboard.html",
         "categories": [
             "tools",
             "apps"
