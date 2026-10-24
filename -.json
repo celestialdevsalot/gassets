@@ -23,7 +23,7 @@
         "source": "proxied"
     },
     {
-        "name": "soundboard",
+        "name": "Soundboard",
         "img": "covers/soundboard.png",
         "type": "regular",
         "func": "soundboard.html",
