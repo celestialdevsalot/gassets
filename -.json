@@ -25,13 +25,46 @@
     {
         "name": "Soundboard",
         "img": "covers/soundboard.png",
-        "type": "regular",
+        "type": "apps",
         "url": "soundboard.html",
         "categories": [
             "tools",
             "apps"
         ],
         "source": "local"
+    },
+    {
+        "name": "Atsumaru",
+        "img": "covers/atsumaru.png",
+        "type": "apps",
+        "func": "goUrl('https://atsu.moe');",
+        "categories": [
+            "tools",
+            "apps"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Xbox Cloud Gaming",
+        "img": "covers/xbox.png",
+        "type": "apps",
+        "func": "goUrl('https://www.xbox.com/en-us/play');",
+        "categories": [
+            "tools",
+            "apps"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Minecraft Story Mode",
+        "img": "covers/mcsm.png",
+        "type": "regular",
+        "func": "goUrl('https://mcsm-web.pages.dev');",
+        "categories": [
+            "story",
+            "fun"
+        ],
+        "source": "proxied"
     },
     {
         "name": "Roblox",
