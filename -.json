@@ -20,6 +20,17 @@
             "2player",
             "sports"
         ],
+        "source": "proxied"
+    },
+    {
+        "name": "soundboard",
+        "img": "covers/soundboard.png",
+        "type": "regular",
+        "func": "soundboard.html",
+        "categories": [
+            "tools",
+            "apps"
+        ],
         "source": "local"
     },
     {
