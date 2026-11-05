@@ -157,7 +157,7 @@
     },
     {
         "name": "8 Ball Classic",
-        "img": "covers/8ball.png",
+        "img": "covers/8ball.jpg",
         "type": "regular",
         "func": "goUrl('https://games.cdn.famobi.com/html5games/0/8-ball-billiards-classic/f6589445/?fg_domain=play.famobi.com&fg_aid=A-MINIJUEGOS&fg_uid=82038e98-d4e1-46dd-8de9-1460d1395eab&fg_pid=2cc3e051-3021-4485-bdf0-cdb3f6e01e30&fg_beat=387&original_ref=');",
         "categories": [
@@ -168,7 +168,7 @@
     },
     {
         "name": "Basketball Stars",
-        "img": "covers/bstars.png",
+        "img": "covers/basketball-stars.webp",
         "type": "regular",
         "url": "basketballstars.html",
         "categories": [
