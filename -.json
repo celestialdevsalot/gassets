@@ -1,4 +1,14 @@
-[
+[   
+    {
+        "name": "!! SUGGESTIONS",
+        "img": "covers/suggestions.png",
+        "type": "regular",
+        "func": "goUrl('https://forms.gle/dVFqTBMNT51TA92E9');",
+        "categories": [
+            ""
+        ],
+        "source": "proxied"
+    },
     {
         "name": "Deltarune",
         "img": "covers/deltarune.png",
@@ -77,5 +87,159 @@
             "port"
         ],
         "source": "proxied"
+    },
+    {
+        "name": "Fister",
+        "img": "covers/fister.png",
+        "type": "regular",
+        "func": "goUrl('https://fister.fun');",
+        "categories": [
+            "multiplayer",
+            "pvp"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Tough Love Arena",
+        "img": "covers/tla.png",
+        "type": "regular",
+        "func": "goUrl('https://toughlovearena.com');",
+        "categories": [
+            "multiplayer",
+            "pvp"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Undertale",
+        "img": "covers/ut.png",
+        "type": "regular",
+        "func": "goUrl('https://toby.booksforschool.online/files/undertale/index.html');",
+        "categories": [
+            "indie",
+            "rpg",
+            "port"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Fawa Sports Streaming",
+        "img": "covers/fawa.png",
+        "type": "regular",
+        "func": "goUrl('http://www.fawanews.sc/');",
+        "categories": [
+            "apps",
+            "streaming"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Minecraft 1.5.2",
+        "img": "covers/mc152.png",
+        "type": "regular",
+        "url": "mc152.html",
+        "categories": [
+            "multiplayer",
+            "sandbox"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Minecraft 1.8.8",
+        "img": "covers/mc188.png",
+        "type": "regular",
+        "url": "mc188.html",
+        "categories": [
+            "multiplayer",
+            "sandbox"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "8 Ball Classic",
+        "img": "covers/8ball.png",
+        "type": "regular",
+        "func": "goUrl('https://games.cdn.famobi.com/html5games/0/8-ball-billiards-classic/f6589445/?fg_domain=play.famobi.com&fg_aid=A-MINIJUEGOS&fg_uid=82038e98-d4e1-46dd-8de9-1460d1395eab&fg_pid=2cc3e051-3021-4485-bdf0-cdb3f6e01e30&fg_beat=387&original_ref=');",
+        "categories": [
+            "sports",
+            "2player"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Basketball Stars",
+        "img": "covers/bstars.png",
+        "type": "regular",
+        "url": "basketballstars.html",
+        "categories": [
+            "sports",
+            "player"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Basketball Superstars",
+        "img": "covers/bbss.png",
+        "type": "regular",
+        "url": "basketballsuperstars.html",
+        "categories": [
+            "sports",
+            "2player"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Basket Random",
+        "img": "covers/basketrandom.png",
+        "type": "regular",
+        "url": "basketrandom.html",
+        "categories": [
+            "2player",
+            "sports"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Brawl Stars",
+        "img": "covers/brawlstars.png",
+        "type": "regular",
+        "url": "brawlstars.html",
+        "categories": [
+            "multiplayer"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Soccer Random",
+        "img": "covers/soccerrandom.png",
+        "type": "regular",
+        "url": "soccerrandom.html",
+        "categories": [
+            "2player",
+            "sports"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Bowmasters",
+        "img": "covers/bowmasters.png",
+        "type": "regular",
+        "url": "bowmasters.html",
+        "categories": [
+            "2player",
+            "indie"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Beach Boxing Simulator",
+        "img": "covers/beachboxingsim.png",
+        "type": "regular",
+        "url": "beeachboxingsim.html",
+        "categories": [
+            "sports",
+            "indie"
+        ],
+        "source": "local"
     }
 ]

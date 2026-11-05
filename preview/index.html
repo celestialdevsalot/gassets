@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>playables</title>
+  <link id="favicon" rel="shortcut icon" type="image/png" href="/assets/img/s.png">
+  <link rel="shortcut icon" type="image/png" href="/assets/img/s.png">
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="stylesheet" href="./-.css">
+</head>
+<body theme="default">
+  <div id="top">
+    <input id="search" type="search" placeholder="search..." autocomplete="off" spellcheck="false">
+    <div id="filters" aria-label="zone views">
+      <button class="filter" data-view="bookmarks" type="button"><i data-lucide="star"></i></button>
+      <button class="filter active" data-view="cloud" type="button" onclick="window.open('/cg/');">cloud</button>
+      <button class="filter active" data-view="all" type="button">all</button>
+    </div>
+  </div>
+
+  <div id="categories" aria-label="filter by category"></div>
+  <div id="status">loading...</div>
+  <div id="zones"></div>
+
+  <div id="zone-player" aria-hidden="true">
+    <div id="zone-player-bar">
+      <div id="zone-player-title"></div>
+      <button id="zone-player-close" type="button" aria-label="close" title="close"><i data-lucide="x"></i></button>
+    </div>
+    <iframe id="zone-frame" allow="autoplay; fullscreen; gamepad; clipboard-read; clipboard-write" allowfullscreen></iframe>
+  </div>
+</body>
+<script src="./-.js"></script>
+<script src="https://raw.githubusercontent.com/JustJxrdanWasDefinetlyTaken/celestial-rework/refs/heads/main/public/assets/js/theme.js"></script>
+</html>
