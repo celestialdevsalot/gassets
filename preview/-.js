@@ -2,7 +2,7 @@
 
 const xqv = "aHR0cHM6Ly8=";
 const mzk = "Y2RuLm1hcmluY2FyZWVycy5vcmcv";
-const pjt = "SnVzdEp4cmRhbldhc0RlZmluZXRseVRha2VuL2NlbGVzdGlhbC1yZXdvcmsvbWFpbi8=";
+const pjt = "Y2VsZXN0aWFsZGV2c2Fsb3QvZ2Fzc2V0cy9tYWluLw==";
 const qrw = atob(xqv) + atob(mzk);
 const vbn = qrw + atob(pjt);
 const assetCDN = vbn;

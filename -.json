@@ -1,6 +1,6 @@
-[   
+[
     {
-        "name": "!! SUGGESTIONS",
+        "name": "-! SUGGESTIONS",
         "img": "covers/suggestions.png",
         "type": "regular",
         "func": "goUrl('https://forms.gle/dVFqTBMNT51TA92E9');",
@@ -113,7 +113,7 @@
     {
         "name": "Undertale",
         "img": "covers/ut.png",
-        "type": "regular",
+        "type": "exclusive",
         "func": "goUrl('https://toby.booksforschool.online/files/undertale/index.html');",
         "categories": [
             "indie",
@@ -125,7 +125,7 @@
     {
         "name": "Fawa Sports Streaming",
         "img": "covers/fawa.png",
-        "type": "regular",
+        "type": "apps",
         "func": "goUrl('http://www.fawanews.sc/');",
         "categories": [
             "apps",
@@ -173,7 +173,7 @@
         "url": "basketballstars.html",
         "categories": [
             "sports",
-            "player"
+            "2player"
         ],
         "source": "local"
     },
@@ -184,7 +184,7 @@
         "url": "basketballsuperstars.html",
         "categories": [
             "sports",
-            "2player"
+            "slop"
         ],
         "source": "local"
     },
@@ -205,7 +205,8 @@
         "type": "regular",
         "url": "brawlstars.html",
         "categories": [
-            "multiplayer"
+            "multiplayer",
+            "competitive"
         ],
         "source": "local"
     },
@@ -238,8 +239,208 @@
         "url": "beachboxingsim.html",
         "categories": [
             "sports",
-            "indie"
+            "slop",
+            "fun"
         ],
         "source": "local"
+    },
+    {
+        "name": "Meccha Chameleon",
+        "img": "covers/meccha.png",
+        "type": "exclusive",
+        "url": "meccha.html",
+        "categories": [
+            "multiplayer",
+            "port",
+            "indie",
+            "competitive"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Among Us",
+        "img": "covers/amongus.png",
+        "type": "exclusive",
+        "url": "amongus.html",
+        "categories": [
+            "multiplayer",
+            "indie",
+            "port"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Class of '09",
+        "img": "covers/classof09.png",
+        "type": "exclusive",
+        "func": "goUrl('https://justjxrdanwasdefinetlytaken.github.io/ClassOf09Games/C09/index.html');",
+        "categories": [
+            "story",
+            "indie",
+            "port"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Class of '09; The Re-up",
+        "img": "covers/classof09reup.png",
+        "type": "exclusive",
+        "func": "goUrl('https://justjxrdanwasdefinetlytaken.github.io/ClassOf09Games/C09RU/index.html",
+        "categories": [
+            "story",
+            "indie",
+            "port"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Class of '09; The Flipside",
+        "img": "covers/classof09flipside.png",
+        "type": "exclusive",
+        "func": "goUrl('https://justjxrdanwasdefinetlytaken.github.io/ClassOf09Games/C09FS/index.html');",
+        "categories": [
+            "story",
+            "indie",
+            "port"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "-3",
+        "img": "covers/-3.png",
+        "type": "regular",
+        "url": "-3.html",
+        "categories": [
+            "indie",
+            "fun",
+            "port"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "t³ (T cubed)",
+        "img": "covers/t3.png",
+        "type": "regular",
+        "url": "t3.html",
+        "categories": [
+            "indie",
+            "fun",
+            "port"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Skate 3",
+        "img": "covers/skate3.png",
+        "type": "exclusive",
+        "url": "skate3.html",
+        "categories": [
+            "sports",
+            "fun",
+            "port"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Tung Sahur Horror",
+        "img": "covers/tsh.png",
+        "type": "regular",
+        "url": "tungsahurhorror.html",
+        "categories": [
+            "fun",
+            "slop"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Tung Tung Tung Sahur Obby Challenge",
+        "img": "covers/tso.png",
+        "type": "regular",
+        "url": "tungobby.html",
+        "categories": [
+            "fun",
+            "slop"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "The Last Spartan",
+        "img": "covers/thelastspartan.png",
+        "type": "regular",
+        "url": "thelastspartan.html",
+        "categories": [
+            "indie",
+            "endless",
+            "fun"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Neal.fun",
+        "img": "covers/neal.png",
+        "type": "apps",
+        "func": "goUrl('https://neal.fun');",
+        "categories": [
+            "fun",
+            "apps"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Amazon Luna",
+        "img": "covers/amazonluna.png",
+        "type": "apps",
+        "func": "goUrl('https://luna.amazon.com');",
+        "categories": [
+            "apps"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "House Of Hazards",
+        "img": "covers/houseofhazards.png",
+        "type": "regular",
+        "url": "hoh.html",
+        "categories": [
+            "2player",
+            "fun"
+        ],
+        "source": "local"
+    },
+    {
+        "name": "Fortnite",
+        "img": "/assets/img/fortnite.png",
+        "type": "exclusive",
+        "url": "https://shorturl.at/dA8EY",
+        "categories": [
+            "multiplayer",
+            "shooter",
+            "competitive"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Krunker",
+        "img": "covers/krunker.png",
+        "type": "regular",
+        "func": "goUrl('https://krunk.io');",
+        "categories": [
+            "shooter",
+            "port",
+            "competitive"
+        ],
+        "source": "proxied"
+    },
+    {
+        "name": "Buildnow.gg",
+        "img": "covers/buildnow.png",
+        "type": "regular",
+        "url": "buildnow.html",
+        "categories": [
+            "shooter",
+            "fun",
+            "competitive"
+        ],
+        "source": "proxied"
     }
 ]
