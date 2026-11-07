@@ -388,7 +388,7 @@
     },
     {
         "name": "Amazon Luna",
-        "img": "covers/amazonluna.png",
+        "img": "covers/luna.png",
         "type": "apps",
         "func": "goUrl('https://luna.amazon.com');",
         "categories": [
@@ -398,7 +398,7 @@
     },
     {
         "name": "House Of Hazards",
-        "img": "covers/houseofhazards.png",
+        "img": "covers/hoh.png",
         "type": "regular",
         "url": "hoh.html",
         "categories": [
@@ -409,7 +409,7 @@
     },
     {
         "name": "Fortnite",
-        "img": "/assets/img/fortnite.png",
+        "img": "covers/fortnite.png",
         "type": "exclusive",
         "url": "https://shorturl.at/dA8EY",
         "categories": [
@@ -421,7 +421,7 @@
     },
     {
         "name": "Krunker",
-        "img": "covers/krunker.png",
+        "img": "covers/krunk.png",
         "type": "regular",
         "func": "goUrl('https://krunk.io');",
         "categories": [
@@ -433,7 +433,7 @@
     },
     {
         "name": "Buildnow.gg",
-        "img": "covers/buildnow.png",
+        "img": "covers/buildnowgg.png",
         "type": "regular",
         "url": "buildnow.html",
         "categories": [
