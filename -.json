@@ -411,7 +411,7 @@
         "name": "Fortnite",
         "img": "covers/fortnite.png",
         "type": "exclusive",
-        "url": "https://shorturl.at/dA8EY",
+        "func": "goUrl('https://shorturl.at/dA8EY');",
         "categories": [
             "multiplayer",
             "shooter",
@@ -441,6 +441,6 @@
             "fun",
             "competitive"
         ],
-        "source": "proxied"
+        "source": "local"
     }
 ]
